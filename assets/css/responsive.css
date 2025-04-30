@@ -273,6 +273,9 @@
         font-size: 38px;
         line-height: 1.4;
     }
+    .portfolio-items .portfolio-item.portfolio-full .portfolio-item-inner {
+        height: 227px;
+    }
     .skills-area,
     .services-area,
     .resume-area,
@@ -333,6 +336,9 @@
         flex-direction: column;
         justify-content: flex-start;
         align-items: flex-start;
+    }
+    .portfolio-items .portfolio-item.portfolio-full .portfolio-item-inner {
+        height: 220px;
     }
     .comments-area .comments .comments-list .comment-item .comment-body .comment-content h4 .date {
         margin-left: 26px;
